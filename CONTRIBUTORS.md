@@ -585,3 +585,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Victor_Reyes](https://github.com/VictorReyes11)
+
+- Place: Barcelona, Spain
+- Bio: I am working as full stack software engineer for a tech company and a lover of challenges
+- GitHub: [VictorReyes11](https://github.com/VictorReyes11)
