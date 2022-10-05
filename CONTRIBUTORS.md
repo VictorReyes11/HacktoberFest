@@ -585,3 +585,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Tanu Soni](https://github.com/tanus786)
+
+- Place: Ghaziabad, India
+- Bio: I am a Third Year CSE student, I am a technology enthusiast.
+- GitHub: [tanus786](https://github.com/tanus786)
