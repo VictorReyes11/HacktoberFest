@@ -22,6 +22,12 @@
 - Bio: Second-year college student
 - GitHub: [Sujal Goswami](https://github.com/sujal-goswami)
 
+#### Name: [DRASHTI ASHARA](https://github.com/drashti-03)
+
+- Place: Rajkot, Gujarat, India
+- Bio: Third year college student interested in web development and competitive programming!
+- GitHub: [Drashti Ashara](https://github.com/drashti-03)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
